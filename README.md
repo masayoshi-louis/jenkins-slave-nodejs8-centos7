@@ -1,0 +1,1 @@
+# openshift-jenkins-slave-nodejs8-centos7
